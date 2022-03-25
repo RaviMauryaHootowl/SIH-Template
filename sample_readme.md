@@ -3,12 +3,12 @@
 ### Team name: your-team-name
 
 ## Team members
-* Member-1 - Email
-* Member-2 - Email
-* Member-3 - Email
-* Member-4 - Email
-* Member-5 - Email
-* Member-6 - Email
+* Member-1 Name - Email
+* Member-2 Name - Email
+* Member-3 Name - Email
+* Member-4 Name - Email
+* Member-5 Name - Email
+* Member-6 Name - Email
 
 
 ## Description
